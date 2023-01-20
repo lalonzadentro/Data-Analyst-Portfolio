@@ -1,2 +1,2 @@
-# Data-Analyst-Portfolio
+# Anastasia Alekseeva – Data Analyst Portfolio
 Here is my portfolio with Data Analysis projects
