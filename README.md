@@ -1,2 +1,6 @@
 # Anastasia Alekseeva – Data Analyst Portfolio
-Here is my portfolio with Data Analysis projects.
+Here is my Data Analyst portfolio which include:
+1. Data Analysis projects
+2. Data Visualization projects
+3. Web Scraping projects
+4. Machine Learning projects
