@@ -4,3 +4,4 @@ Here is my Data Analyst portfolio which include:
 2. Data Visualization projects
 3. Web Scraping projects
 4. Machine Learning projects
+5. SQL queries examples
