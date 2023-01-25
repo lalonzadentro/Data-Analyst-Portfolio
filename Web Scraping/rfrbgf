@@ -1,0 +1,5 @@
+import pandas as pd   # To create a DataFrame
+import requests       # To send requests to the URLs
+from bs4 import BeautifulSoup # To get the content in the form of HTML
+import re # To work with strings
+import imdb # To extract data about films
