@@ -5,3 +5,8 @@
 ### Performed
 
 ### Stack
+
+## Python:
+* Pandas
+* Numpy
+* Beautiful Soup
