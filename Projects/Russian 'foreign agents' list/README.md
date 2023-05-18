@@ -1,5 +1,5 @@
 # Project's Description
-The Ministry of Justice of the Russian Federation almost every Friday replenishes the list of "foreign agents", which in recent years has become more of a repressive tool. 
+The Ministry of Justice of the Russian Federation almost every Friday replenishes the **list of "foreign agents"**, which in recent years has become more of a repressive tool. 
 
 In this project, I analyzed individuals and organizations that were included in the Russian list of foreign agents.
 
