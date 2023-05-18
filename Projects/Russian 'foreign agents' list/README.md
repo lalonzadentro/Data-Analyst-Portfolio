@@ -15,6 +15,11 @@ In this project, I analyzed individuals and organizations that were included in 
 3. Professional occupation of foreign agents-individuals
 
 # Performed
+* Data Collection (through Web Scraping)
+* Data Cleaning
+* Data Analysis
+* Data Visualisation
+* Presenting conclusions in an article
 
 # Stack:
 
