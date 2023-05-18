@@ -7,7 +7,7 @@ In this project, I analyzed individuals and organizations that were included in 
 * Find patterns of the inclusion of individuals and organizations in the Russian list of foreign agents
 * Gain curious insights
 
-## Question answered
+## Questions to answer
 
 # Performed
 
