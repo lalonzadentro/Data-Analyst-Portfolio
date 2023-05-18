@@ -4,6 +4,7 @@ The Ministry of Justice of the Russian Federation almost every Friday replenishe
 In this project, I analyzed individuals and organizations that were included in the Russian list of foreign agents.
 
 
+
 ✅ Data Collecting, Cleaning and Analysis fro this project could be found here.
 
 ✅ Data Visualisation for this project could be found here.
