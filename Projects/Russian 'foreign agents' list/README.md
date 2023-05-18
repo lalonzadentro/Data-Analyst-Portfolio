@@ -6,7 +6,7 @@
 
 # Stack:
 
-**Python:**
+** * Python:**
 * Pandas
 * Numpy
 * Beautiful Soup
