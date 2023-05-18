@@ -5,9 +5,9 @@ In this project, I analyzed individuals and organizations that were included in 
 
 
 ✅ 
-* Data Collecting, Cleaning and Analysis fro this project could be found here.
-* Data Visualisation for this project could be found here.
-* The article about the insights from this analysis could be found here.
+* **Data Collecting, Cleaning and Analysis** fro this project could be found here.
+* **Data Visualisation** for this project could be found here.
+* The article about the **insights from this analysis** could be found here.
 
 # Data source
 Web Scraping
