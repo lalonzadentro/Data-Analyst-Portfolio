@@ -9,7 +9,9 @@ In this project, I analyzed individuals and organizations that were included in 
 
 # Questions to answer
 1.Overall characteristics of foreign agents
+
 2.Demographic characteristics of foreign agents-individuals
+
 3.Professional occupation of foreign agents-individuals
 
 # Performed
