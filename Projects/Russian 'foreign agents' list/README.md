@@ -1,12 +1,12 @@
-### Project's Description
+# Project's Description
 
-### Objective
+# Objective
 
-### Performed
+# Performed
 
-### Stack
+# Stack:
 
-## Python:
+**Python:**
 * Pandas
 * Numpy
 * Beautiful Soup
