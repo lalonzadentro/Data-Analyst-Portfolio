@@ -7,12 +7,12 @@ In this project, I analyzed individuals and organizations that were included in 
 * Find patterns of the inclusion of individuals and organizations in the Russian list of foreign agents
 * Gain curious insights
 
-# Questions to answer
-1.Overall characteristics of foreign agents
+# Questions to cover
+1. Overall characteristics of foreign agents
 
-2.Demographic characteristics of foreign agents-individuals
+2. Demographic characteristics of foreign agents-individuals
 
-3.Professional occupation of foreign agents-individuals
+3. Professional occupation of foreign agents-individuals
 
 # Performed
 
