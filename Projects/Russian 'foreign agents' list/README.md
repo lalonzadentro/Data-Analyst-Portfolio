@@ -10,3 +10,4 @@
   * Pandas
   * Numpy
   * Beautiful Soup
+* Tableau
