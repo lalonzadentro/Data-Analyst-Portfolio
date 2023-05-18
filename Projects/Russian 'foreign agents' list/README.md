@@ -10,4 +10,5 @@
   * Pandas
   * Numpy
   * Beautiful Soup
+* **Google Sheets**
 * **Tableau**
