@@ -8,5 +8,5 @@
 
 * **Python:**
   * Pandas
-* Numpy
-* Beautiful Soup
+  * Numpy
+  * Beautiful Soup
