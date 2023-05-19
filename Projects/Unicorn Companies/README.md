@@ -21,6 +21,7 @@ Dataset from [Maven Analytics's Data Playground](https://mavenanalytics.io/data-
 ## ✅ Performed
 * Data Cleaning
 * Handling missing data and outliers
+* Unifying messy data (the Valuation column contained as billions, as millions)
 * Data Analysis
 * Data Visualisation
 * Presenting conclusions in an article
