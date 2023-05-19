@@ -1,5 +1,5 @@
 # Project's Description
-This project aims to analyze a dataset of unicorn companies to uncover common patterns and interesting insights.
+This project aims to analyze a dataset of **Unicorn Companies** to uncover common patterns and interesting insights.
 
 ✅ 
 * **Data Collecting, Cleaning and Analysis** fro this project could be found here.
@@ -9,7 +9,7 @@ This project aims to analyze a dataset of unicorn companies to uncover common pa
 # Summary
 
 ## ℹ️ Data source
-Web Scraping
+Dataset from [Maven Analytics's Data Playground](https://mavenanalytics.io/data-playground?page=2)
 
 ## 🏆 Goals
 * Find patterns of the inclusion of individuals and organizations in the Russian list of foreign agents
