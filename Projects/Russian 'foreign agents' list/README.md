@@ -38,5 +38,6 @@ Web Scraping
   * Pandas
   * Numpy
   * Beautiful Soup
+  * Camelot (a library for extracting tables from PDF)
 * **Google Sheets**
 * **Tableau**
