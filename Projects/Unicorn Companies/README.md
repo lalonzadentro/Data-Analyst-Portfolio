@@ -25,8 +25,10 @@ Dataset from [Maven Analytics's Data Playground](https://mavenanalytics.io/data-
 * Data Analysis
 * Data Visualisation
 * Presenting conclusions in an article
-### 🧗 Challenges
-*cfdcf
+## 🧗 Challenges
+* 'Valuation' and 'Funding' columns containeddifferent measurements (millions and billions)
+* 'Valuation' and 'Funding' columns initially had data with the object type that contained currency, number and B or M at one cell (example – '$180M')
+* There were missing data for a column 'City' for some companies — I handled it using the capital of the Country
 
 
 ## 🛠 Stack:
