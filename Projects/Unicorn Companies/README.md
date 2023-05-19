@@ -20,6 +20,7 @@ Dataset from [Maven Analytics's Data Playground](https://mavenanalytics.io/data-
 
 ## ✅ Performed
 * Data Cleaning
+* Handling missing data and outliers
 * Data Analysis
 * Data Visualisation
 * Presenting conclusions in an article
