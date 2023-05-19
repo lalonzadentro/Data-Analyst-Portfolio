@@ -12,18 +12,13 @@ This project aims to analyze a dataset of **Unicorn Companies** to uncover commo
 Dataset from [Maven Analytics's Data Playground](https://mavenanalytics.io/data-playground?page=2)
 
 ## 🏆 Goals
-* Find patterns of the inclusion of individuals and organizations in the Russian list of foreign agents
+* Find common patterns of companies that received the highest valuation
 * Gain curious insights
 
 ## ❓ Questions to cover
-1. Overall characteristics of foreign agents
 
-2. Demographic characteristics of foreign agents-individuals
-
-3. Professional occupation of foreign agents-individuals
 
 ## ✅ Performed
-* Data Collection (through Web Scraping)
 * Data Cleaning
 * Data Analysis
 * Data Visualisation
@@ -34,7 +29,6 @@ Dataset from [Maven Analytics's Data Playground](https://mavenanalytics.io/data-
 * **Python:**
   * Pandas
   * Numpy
-  * Beautiful Soup
-  * Camelot (a library for extracting tables from PDF)
-* **Google Sheets**
+  * Matplotlib
+  * Seaborn
 * **Tableau**
