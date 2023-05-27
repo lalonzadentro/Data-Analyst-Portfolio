@@ -1,7 +1,7 @@
 # Project's Description
 The Russian Foreign Agents Law was adopted in 2012. Initially, the law was enacted to regulate the activities of non-profit organizations that receive financial support from abroad and engage in political activities. The law established that organizations receiving such support must register as "foreign agents" with the relevant government agencies and provide reports on their activities and financial transactions. However, in recent years, this law has become more of a repressive tool. The Ministry of Justice of the Russian Federation almost every Friday replenishes the **list of "foreign agents"** and does it not within the framework of the law, but randomly, choosing those whom the Ministry considers disloyal to the Russian government.
 
-In this project, I analyzed individuals and organizations that are included in the Russian list of foreign agents, to find common patterns and maybe insignts.
+In this project, I analyzed individuals and organizations that are included in the Russian list of foreign agents, to find common patterns and curious insignts.
 
 
 ✅ 
