@@ -5,12 +5,12 @@ In this project, I analyzed individuals and organizations that are included in t
 
 
 ✅ 
-* **Data Collecting, Cleaning and Analysis** for this project could be found [here](https://github.com/lalonzadentro/Data-Analyst-Portfolio/blob/main/Projects/Russian%20Registry%20of%20Foreign%20Agents/Russian%20Registry%20of%20Foreign%20Agents.ipynb)
+* **Data Collecting, Cleaning and Analysis** for this project could be found [here](https://github.com/lalonzadentro/Data-Analyst-Portfolio/blob/main/Projects/Russian%20Registry%20of%20Foreign%20Agents/Russian%20Registry%20of%20Foreign%20Agents.ipynb).
 * **Data Visualisation** for this project:
-  *  **Graphs** made with Tableau could be found [here](https://github.com/lalonzadentro/Data-Analyst-Portfolio/blob/main/Projects/Russian%20'foreign%20agents'%20list/Visualizations%20for%20Russian%20Registry%20of%20Foreign%20Agents'%20analysis.pdf),
-  *  **Dashboard** made with Tableau could be found [here](https://github.com/lalonzadentro/Data-Analyst-Portfolio/blob/main/Projects/Russian%20'foreign%20agents'%20list/Dashboard%20%E2%80%93%20Russian%20Foreign%20Agents.jpeg),
-  *  **Infographics** for social media made with Canva could be found [here](https://github.com/lalonzadentro/Data-Analyst-Portfolio/blob/main/Projects/Russian%20'foreign%20agents'%20list/Visiualizations%20for%20social%20media%20%E2%80%93%20Registry%20of%20foreign%20agents.pdf).
-* The article about the **insights from this analysis** could be found [here](https://medium.com/@lalonzadentro/the-anatomy-of-a-russian-foreign-agent-ac2fdbcb4667).
+  *  **Graphs** made with Tableau could be found [here](https://github.com/lalonzadentro/Data-Analyst-Portfolio/blob/main/Projects/Russian%20Registry%20of%20Foreign%20Agents/Visualizations%20for%20Russian%20Registry%20of%20Foreign%20Agents'%20analysis.pdf),
+  *  **Dashboard** made with Tableau could be found [here](https://github.com/lalonzadentro/Data-Analyst-Portfolio/blob/main/Projects/Russian%20Registry%20of%20Foreign%20Agents/Dashboard%20%E2%80%93%20Russian%20Foreign%20Agents.jpeg),
+  *  **Infographics** for social media made with Canva could be found [here](https://github.com/lalonzadentro/Data-Analyst-Portfolio/blob/main/Projects/Russian%20Registry%20of%20Foreign%20Agents/Visiualizations%20for%20social%20media%20%E2%80%93%20Registry%20of%20foreign%20agents.pdf).
+* The article about the **insights from this analysis** could be found [here](https://github.com/lalonzadentro/Data-Analyst-Portfolio/blob/main/Projects/Russian%20Registry%20of%20Foreign%20Agents/The%20Anatomy%20of%20a%20Russian%20foreign%20agent%20_%20by%20Anastasia%20Alekseeva%20_%20May%2C%202023%20_%20Medium.pdf).
 
 # Summary
 
