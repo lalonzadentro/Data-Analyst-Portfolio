@@ -16,7 +16,7 @@ In this project, I analyzed individuals and organizations that are included in t
 2. Wikipedia, ["List of foreign agents in Russia"](https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B8%D0%BD%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D1%85_%D0%B0%D0%B3%D0%B5%D0%BD%D1%82%D0%BE%D0%B2_(%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F)) (the Russian version of the article)
 
 ## 🏆 Goals
-* Find patterns of the inclusion of individuals and organizations in the Russian list of foreign agents
+* Find patterns of inclusions/exclusions of individuals and organizations in the Russian list of foreign agents
 * Gain curious insights
 
 ## ❓ Questions to cover
