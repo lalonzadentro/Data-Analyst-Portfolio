@@ -5,7 +5,7 @@ In this project, I analyzed individuals and organizations that are included in t
 
 
 ✅ 
-* **Data Collecting, Cleaning and Analysis** fro this project could be found here.
+* **Data Collecting, Cleaning and Analysis** fro this project could be found [here](https://github.com/lalonzadentro/Data-Analyst-Portfolio/blob/main/Projects/Russian%20'foreign%20agents'%20list/Russian%20Registry%20of%20Foreign%20Agents.ipynb).
 * **Data Visualisation** for this project could be found here.
 * The article about the **insights from this analysis** could be found here.
 
