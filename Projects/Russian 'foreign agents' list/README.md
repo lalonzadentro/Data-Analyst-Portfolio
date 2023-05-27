@@ -6,7 +6,7 @@ In this project, I analyzed individuals and organizations that are included in t
 
 ✅ 
 * **Data Collecting, Cleaning and Analysis** for this project could be found [here](https://github.com/lalonzadentro/Data-Analyst-Portfolio/blob/main/Projects/Russian%20'foreign%20agents'%20list/Russian%20Registry%20of%20Foreign%20Agents.ipynb).
-* **Data Visualisation** for this project could be found here (graphs made with Tableau), here (the dashboard made with Tableau) and [here](https://github.com/lalonzadentro/Data-Analyst-Portfolio/blob/main/Projects/Russian%20'foreign%20agents'%20list/Visiualizations%20for%20social%20media%20(Registry%20of%20foreign%20agents.pdf)(infographics for social media made with Canva).
+* **Data Visualisation** for this project could be found here (graphs made with Tableau), here (the dashboard made with Tableau) and [here](https://github.com/lalonzadentro/Data-Analyst-Portfolio/blob/main/Projects/Russian%20'foreign%20agents'%20list/Visiualizations%20for%20social%20media%20(Registry%20of%20foreign%20agents.pdf) (infographics for social media made with Canva).
 * The article about the **insights from this analysis** could be found [here](https://medium.com/@lalonzadentro/the-anatomy-of-a-russian-foreign-agent-ac2fdbcb4667).
 
 # Summary
