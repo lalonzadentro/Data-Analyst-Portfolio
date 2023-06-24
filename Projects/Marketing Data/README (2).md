@@ -2,7 +2,7 @@
 This project aims to analyze a dataset of **Marketing Data** to uncover common patterns and interesting insights.
 
 ✅ 
-* **Data Collecting, Cleaning and Analysis** for this project could be found here.
+* **Data Collecting, Cleaning and Analysis as well as Data Modeling** for this project could be found here.
 * **Data Visualisation** for this project could be found here.
 * The article about the **insights from this analysis** could be found here.
 
