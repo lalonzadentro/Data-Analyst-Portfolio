@@ -2,7 +2,7 @@
 This project aims to analyze a dataset of **Unicorn Companies** to uncover common patterns and interesting insights.
 
 ✅ 
-* **Data Collecting, Cleaning and Analysis** fro this project could be found here.
+* **Data Collecting, Cleaning and Analysis** for this project could be found here.
 * **Data Visualisation** for this project could be found here.
 * The article about the **insights from this analysis** could be found here.
 
