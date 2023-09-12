@@ -1,4 +1,4 @@
-# Project's Description
+# Описание проекта/Project's Description
 This project aims to analyze a dataset of **Marketing Data** to uncover common patterns and interesting insights.
 
 ✅ 
