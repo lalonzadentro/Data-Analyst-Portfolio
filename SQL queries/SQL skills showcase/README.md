@@ -11,8 +11,7 @@
 * Подзапросы
 * CTE, IF, CASE WHEN
 * Оконные функции
-
-
+<pre>
 
 ### 🇬🇧In English
 # SQL skills showcase
