@@ -4,8 +4,10 @@
 2. [Проекты по анализу данных](https://github.com/lalonzadentro/Data-Analyst-Portfolio/tree/main/Data%20Analysis%20with%20Python)
 3. [Проекты по веб-скрейпингу](https://github.com/lalonzadentro/Data-Analyst-Portfolio/tree/main/Web%20Scraping)
 4. [Проекты по визуализации данных](https://github.com/lalonzadentro/Data-Analyst-Portfolio/tree/main/Data%20Visualization)
+
+   </br>   </br>   </br>   </br>   </br>
    
-### In English
+### 🇬🇧In English
 # Anastasia Alekseeva – Data Analyst Portfolio
 Here is my Data Analyst portfolio which includes:
 1. [SQL queries examples](https://github.com/lalonzadentro/Data-Analyst-Portfolio/tree/main/SQL%20queries)
