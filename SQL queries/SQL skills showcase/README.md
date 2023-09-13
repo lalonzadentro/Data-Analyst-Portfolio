@@ -12,6 +12,7 @@
 * CTE, IF, CASE WHEN
 * Оконные функции
 <pre>
+<pre>
 
 ### 🇬🇧In English
 # SQL skills showcase
