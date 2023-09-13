@@ -37,3 +37,5 @@ Dataset from [Maven Analytics's Data Playground](https://mavenanalytics.io/data-
   * Matplotlib
   * Seaborn
 * **Tableau**
+
+# Выводы / Conclusions
