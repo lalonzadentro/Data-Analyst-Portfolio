@@ -2,7 +2,7 @@
 Я выполнила SQL-запросы к 3-м таблицам: "dataset", "films" и "directors". 
 Таблица "dataset" содержит идентификаторы фильмов и режиссеров из таблиц "films" и "directors".
 
-**Ссылка на мою демонстрацию навыков SQL**: https://app.noteable.io/f/d291c699-7953-4c38-bcfc-199ecc83c175/SQL_queries.ipynb
+**Ссылка на шоукейс навыков SQL**: https://app.noteable.io/f/d291c699-7953-4c38-bcfc-199ecc83c175/SQL_queries.ipynb
 
 **В этой папке находится [PDF-версия этого блокнота]**(https://github.com/lalonzadentro/Data-Analyst-Portfolio/blob/main/SQL%20queries/SQL%20skills%20showcase/SQL%20skills%20showcase%20(SQL%20queries).pdf)
 
