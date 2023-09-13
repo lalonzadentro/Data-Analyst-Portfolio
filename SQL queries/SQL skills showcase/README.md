@@ -13,7 +13,8 @@
 * Оконные функции
 
 
-### In English
+
+### 🇬🇧In English
 # SQL skills showcase
 Here is my SQL skills showcase. I executed SQL queries against 3 tables: "dataset", "films" and "directors". 
 Table 'dataset' has ids of films and directors from tables 'films' and 'directors'.
