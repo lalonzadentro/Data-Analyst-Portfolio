@@ -11,7 +11,7 @@
 * Подзапросы
 * CTE, IF, CASE WHEN
 * Оконные функции
- <br /> <br />
+ <br /> <br /> <br /> <br />
 ### 🇬🇧In English
 # SQL skills showcase
 Here is my SQL skills showcase. I executed SQL queries against 3 tables: "dataset", "films" and "directors". 
