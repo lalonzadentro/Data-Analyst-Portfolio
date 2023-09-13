@@ -12,10 +12,6 @@ This project aims to analyze a dataset of **Marketing Data** to uncover common p
 Dataset from [Maven Analytics's Data Playground](https://mavenanalytics.io/data-playground?page=2)
 
 ## 🏆 Goals
-* Find common patterns of companies that received the highest valuation
-* Gain curious insights
-
-## ❓ Questions to cover
 * Найти паттерн среди тех клиентов, которые оставили жалобы и рпедложить, как его можно поправить
 * Описать среднего клиента
 * Описать результаты маркетинговых кампаний
