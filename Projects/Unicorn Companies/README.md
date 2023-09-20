@@ -80,7 +80,7 @@ Dataset from [Maven Analytics's Data Playground](https://mavenanalytics.io/data-
 
 ## 🛠 Stack:
 
-* **Python:**
+**Python:**
   * Pandas
   * Numpy
   * Matplotlib
