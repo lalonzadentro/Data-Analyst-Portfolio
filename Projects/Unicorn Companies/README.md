@@ -38,7 +38,7 @@
 
 ## 🛠 Стек:
 
-* **Python:*
+* Python:
   * Pandas
   * Numpy
   * Matplotlib
