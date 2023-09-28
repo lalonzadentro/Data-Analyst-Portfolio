@@ -1,6 +1,9 @@
 ## ℹ️ Описание проекта 
 Целью данного проекта является анализ датасета **Маркетинговые данные** для выявления общих закономерностей и интересных выводов.
 * Датасет взят из [Maven Analytics's Data Playground](https://mavenanalytics.io/data-playground?page=2)
+* Датасет состоит из двух таблиц: сами даннные + словарь со значениями колонок
+* В таблице с данными 2240 строк и 28 колонок ['ID', 'Year_Birth', 'Education', 'Marital_Status', ' Income ', 'Kidhome', 'Teenhome', 'Dt_Customer', 'Recency', 'MntWines', 'MntFruits', 'MntMeatProducts', 'MntFishProducts', 'MntSweetProducts', 'MntGoldProds', 'NumDealsPurchases', 'NumWebPurchases', 'NumCatalogPurchases',
+       'NumStorePurchases', 'NumWebVisitsMonth', 'AcceptedCmp3', 'AcceptedCmp4', 'AcceptedCmp5', 'AcceptedCmp1', 'AcceptedCmp2', 'Response', 'Complain', 'Country']
 
 
 ## 🏆 Цели проекта
