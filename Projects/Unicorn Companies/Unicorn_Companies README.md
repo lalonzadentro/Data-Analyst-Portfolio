@@ -7,6 +7,7 @@
 * Набор данных взят из [Maven Analytics's Data Playground](https://mavenanalytics.io/data-playground?page=2)
 
 ## 🐍 Код с очисткой и анализом данных
+https://github.com/lalonzadentro/Data-Analyst-Portfolio/blob/main/Projects/Unicorn%20Companies/Unicorn%20Companies_29.09%20(1).ipynb
 
 ## 🏆 Цели
 * Найти общие закономерности для компаний-единорогов, получивших наибольшую инвестиционную оценку.
