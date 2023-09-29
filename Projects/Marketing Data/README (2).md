@@ -22,6 +22,8 @@ Part 2:
 * Построить модель классификации клиентов на тех, кто пользуется скидками и тех, кто нет
 
 ## 🐍 Код проекта
+[Part 1](https://github.com/lalonzadentro/Data-Analyst-Portfolio/blob/main/Projects/Marketing%20Data/Marketing%20data%20%E2%80%94%20Part%201%20(Data%20Analysis)_29.09%20(1).ipynb)
+[Part 2](https://github.com/lalonzadentro/Data-Analyst-Portfolio/blob/main/Projects/Marketing%20Data/Marketing%20data%20%E2%80%94%20Part%202%20(Machine%20Learning)%2029.09%20(1).ipynb)
 
 ## 💡 Результаты (выводы и инсайты)
 Part 1:
