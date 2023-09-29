@@ -15,6 +15,7 @@
 
 
 ## 🐍 Код проекта
+[Код тут](https://github.com/lalonzadentro/Data-Analyst-Portfolio/blob/main/Projects/Retention%20and%20ROI%20prediction/Retention%20and%20ROI%20forecasting%20(1).ipynb)
 
 ## 💡 Результаты:
 * Таблица Retention на ближайщие 1,5 года
